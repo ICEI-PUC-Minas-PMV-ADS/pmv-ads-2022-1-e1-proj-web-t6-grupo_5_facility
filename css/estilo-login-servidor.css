@@ -1,0 +1,65 @@
+﻿body {
+    text-align: center;
+    background-color: #f8f9fd;
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+}
+
+.container {
+    background-color: white;
+    width: 500px;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    align-content: center;
+    margin: 25px auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 5px;
+    box-shadow: 0 0 1em lightgrey;
+}
+
+h2 {
+    margin: 50px auto;
+}
+
+img {
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+}
+
+.dados-login {
+    height: 48px;
+    background-color: rgba(0, 0, 0, 0.10);
+    color: #000;
+    font-size: 16px;
+    border: 1px solid transparent;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.senha {
+    margin-bottom: 50px;
+}
+
+button {
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 30px;
+    background-color: #ff9a00;
+    cursor: pointer;
+}
+
+    button:hover {
+        opacity: 0.8;
+    }
+
+    button:active {
+        opacity: 0.6;
+    }

@@ -1,0 +1,41 @@
+﻿body {
+    text-align: center;
+    background-color: #f8f9fd;
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+    padding: 50px;
+}
+.cliente {
+    background-color: white;
+    width: 500px;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    align-content: center;
+    margin: 25px auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 5px;
+    box-shadow: 0 0 1em lightgrey;
+}
+.servidor {
+    background-color: white;
+    width: 500px;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    align-content: center;
+    margin: 25px auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 5px;
+    box-shadow: 0 0 1em lightgrey;
+}
+img{
+    height: 120px;
+    border-radius: 60px
+}
+a{
+    text-decoration: none;
+    color: black;
+}
