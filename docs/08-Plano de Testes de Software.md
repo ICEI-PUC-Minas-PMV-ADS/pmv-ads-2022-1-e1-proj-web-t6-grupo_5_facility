@@ -48,7 +48,7 @@ Os requisitos para realização dos testes de software são:
  </tr>
   <tr>
  <td>Objetivo do Teste</td>
- <td>Verificar se a aplicação web exibe campos de preenchimento para o usuário informar os dados das OSs</td>
+ <td>Verificar se a aplicação web exibe uma página com campos de preenchimento para o usuário informar os dados das OSs</td>
  </tr>
   <tr>
  <td>Passos</td>
