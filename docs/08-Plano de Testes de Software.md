@@ -38,7 +38,7 @@ Os requisitos para realização dos testes de software são:
  </tbody>
 </table>
  <table>
- <caption>Plano de Teste de Software C2-02</caption>
+ <caption>Plano de Teste de Software CT-02</caption>
   <tr>
    <th>Caso de Teste</th>
    <th>CT-02 - Visualizar página de inserção de dados das OSs</th>
