@@ -41,7 +41,7 @@ Os requisitos para realização dos testes de software são:
  <caption>Plano de Teste de Software CT-02</caption>
   <tr>
    <th>Caso de Teste</th>
-   <th>CT-02 - Visualizar página de inserção de dados das OSs</th>
+   <th>CT-02 - Visualizar página de inserção de dados</th>
  </tr>
   <td>Requisitos associados</td>
   <td>RF-04- Após o login, o site deve apresentar uma tela em que o usuário possa entrar com os dados da sua OS. </td>
