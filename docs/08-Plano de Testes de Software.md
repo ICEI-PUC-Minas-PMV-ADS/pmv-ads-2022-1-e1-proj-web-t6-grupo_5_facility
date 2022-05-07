@@ -58,7 +58,7 @@ Os requisitos para realização dos testes de software são:
   <li>4- Selecionar uma das opções de Usuário</li>
   <li>5- Visualizar a tela de login </li>
   <li>6- Realizar o login </li>
-  <li>7- Visualizar a página de inserção de dados das OSs</li>
+  <li>7- Visualizar a página de inserção de dados </li>
  <tr>
   <td>Critérios de Exito</td>
   <td>Deve ser exibido após o login, uma página especifica para inserção de dados das OSs</td>
