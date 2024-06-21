@@ -1,0 +1,23 @@
+message: Please cite this software using these metadata.
+title: Gestor OS
+authors:
+  - family-names: S Brito
+    given-names: Bemvilac
+  - family-names: Alexandre
+    given-names: Lucas
+  - family-names: Ramos da Silva
+    given-names: Eduardo
+  - family-names: Silveira e Silva Ildefonso
+    given-names: Gabriel Vinícius
+  - family-names: de Oliveira Costa
+    given-names: Guilherme
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Dias
+    given-names: Viviane Cristina   
+keywords:
+  - Gestão 
+  - Serviços
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t6-grupo_5_facility
+version: 1.0.0
+date-released: 2022-10-13
